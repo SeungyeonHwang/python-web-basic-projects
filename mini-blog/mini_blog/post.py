@@ -11,7 +11,7 @@ class Post:
         self.id = id
         self.title = title
         self.content = content
-        self.view_count = view_count
+        self.view_count = int(view_count)
 
     def get_id(self):
         return self.id
