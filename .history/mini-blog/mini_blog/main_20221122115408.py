@@ -36,9 +36,9 @@ def write_post():
 # 掲示文 list
 def list_post():
     if not post_list:
-        print("■■■■■■■■■■■■■■■■■■■")
+        print("■■■■■■■■■■")
         print("Post does not exist")
-        print("■■■■■■■■■■■■■■■■■■■")
+        print("■■■■■■■■■■")
         return
 
     print("\n\n==== Post List ====")
@@ -60,9 +60,9 @@ def list_post():
             elif id == -1:
                 break
             else:
-                print("■■■■■■■■■■■■■■■■■■■■■")
+                print("■■■■■■■■■■■■")
                 print("This post doesn't exist")
-                print("■■■■■■■■■■■■■■■■■■■■■")
+                print("■■■■■■■■■■■■")
         except ValueError:
             print("Please enter a number")
 
