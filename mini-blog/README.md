@@ -1,5 +1,5 @@
 # ベーシック掲示板 (Console 操作)
-**製作目的** : CRUD tutorial(+基礎文法学習)
+**製作目的** : CRUD tutorial(+基礎文法学習)  
 **デモンストレーション** : [Youtubeリンク](https://www.youtube.com/watch?v=tlgdM5Df-oY&ab_channel=%E9%BB%84%E4%B8%9E%E6%B6%93)
 
 ## **基本設計** : コンソール画面で基本的な掲示板を操作
